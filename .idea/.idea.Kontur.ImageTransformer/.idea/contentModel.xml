@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aosip\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Kontur.ImageTransformer.-1764606435.00" t="ExcludeRecursive" />
+    <e p="C:\Users\aosip\Documents\Visual Studio 2017\Projects\Стажировка\Kontur.ImageTransformer (2 волна)" t="IncludeFlat">
+      <e p="Kontur.ImageTransformer" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="AsyncHttpServer.cs" t="Include" />
+        <e p="Attributes" t="Include">
+          <e p="FilterProcessor.cs" t="Include" />
+          <e p="FilterProcessors.cs" t="Include" />
+        </e>
+        <e p="BaseRequest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EntryPoint.cs" t="Include" />
+        <e p="Enums" t="Include">
+          <e p="Filters.cs" t="Include" />
+        </e>
+        <e p="ImageProcessingController.cs" t="Include" />
+        <e p="ImageProcessors.cs" t="Include" />
+        <e p="Interfases" t="Include">
+          <e p="IRequest.cs" t="Include" />
+          <e p="IResponse.cs" t="Include" />
+        </e>
+        <e p="Kontur.ImageTransformer.csproj" t="IncludeRecursive" />
+        <e p="NLog.config" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Request.cs" t="Include" />
+        <e p="Response.cs" t="Include" />
+      </e>
+      <e p="Kontur.ImageTransformer.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
